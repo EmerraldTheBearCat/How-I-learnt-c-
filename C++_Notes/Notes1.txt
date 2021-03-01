@@ -1,0 +1,2 @@
+What I learnt yesterday is that you run the g++/gcc command on the file you wantto compile and then another file will appear with the same fileame but with no 
+.cpp you then declare it executable and run ./FileNameHere

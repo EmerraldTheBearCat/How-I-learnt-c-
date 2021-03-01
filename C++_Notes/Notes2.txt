@@ -1,0 +1,1 @@
+What I learnt yesterday is how to use functions properly and fully in C++

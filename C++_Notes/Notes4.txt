@@ -1,0 +1,6 @@
+Today I learnt about if statements, coupled with input this could make an entire text game.
+Example:
+if (InsertVariableNameHere = InsertValueHere) {
+	//Do some thing
+}
+//Just make sure the variable is defined already

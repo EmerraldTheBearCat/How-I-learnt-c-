@@ -1,0 +1,2 @@
+Yesterday I learnt How to get input from the user using std::cin >> InsertVariableNameHere;
+Just make sure the variable is already defined
