@@ -6,3 +6,5 @@ This is a plan to learn cpp and get started and how I learnt it in 1 week with n
 3.Make a mini project(Not all of mine are finished you could finish them yourself) utilizing what you've learnt
 4.Write notes the next day to see if you can remember what you did yesterday, if you can't remember do step 1 again
 5.Kepp repeating these steps every day and then you may be able to do a sort of mini mega project, like a text game or a very simple app usingg a begginer framework.
+6.Note to use please extract, declare the file executable (run.sh) and then type ./run.sh in any project with it and
+Final Note: This project as a whole is not meant for windows but should run with a bit of tinkering.
