@@ -1,5 +1,5 @@
 # How-I-learnt-c-
-A plan to learn cpp
+A plan to learn cpp.
 This is a plan to learn cpp and get started and how I learnt it in 1 week with no wifi, I'd reccommend pairing this plan with a free c++ pdf/book, just make sure you're legally allowed to use it.
 1.Look at the pdf/book and recap what you already know but aren't comfortable with or can't write without looking at documentation
 2.Once your used to everything try something new but keep it simple
